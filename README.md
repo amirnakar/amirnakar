@@ -41,7 +41,7 @@ You can also read up on it [here](https://www.linkedin.com/feed/update/urn:li:ac
 
 Or find me on:
 
-<a href="https://www.linkedin.com/in/amir-nakar/"><img src="https://en.m.wikipedia.org/wiki/File:LinkedIn_logo_initials.png" alt="drawing" width="50"/>;
+<a href="https://www.linkedin.com/in/amir-nakar/"><img src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" width="50"/>;
 <a href="https://www.leibniz-ipht.de/en/employees.html?tx_wtdirectory_pi1%5Bshow%5D=7409&tx_rggooglemap_pi1%5Bpoi%5D=7409&cHash=6f622bdd4669bc4f710732bb1cadae1b"><img src="https://github.com/amirnakar/scratchboard/blob/master/PDFs%20and%20Cheatsheets/Leibniz%20IPHT.png" alt="drawing" width="50"/>;
 <a href="https://twitter.com/nakar_a"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/image_ibyytk.png" alt="drawing" width="50"/>;
 <a href="https://www.researchgate.net/profile/Amir_Nakar"><img src="https://github.com/amirnakar/scratchboard/blob/master/PDFs%20and%20Cheatsheets/ResearchgateLogo.jpg" alt="drawing" width="50"/>;
