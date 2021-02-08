@@ -2,7 +2,32 @@
 ## PhD Student at Leibniz Institute of Photonic Technology
 ### 🦠Microbiology 🔬Photonics 🎯Machine Learning
 
-You can reach out to me at:
+# Projects
+## 💊➡🦠 Project Carbatech - Bacterial Diagnostics
+Sinec 2019, I've been studying medical applications of Raman spectroscopy. 
+The work is done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
+
+We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resistant bacteria in hospitals. 
+
+In our work, we collect spectra directly from bacterial cells, and use machine learning algorithms (such as SVMs) to learn and predict whether those bacteria will be resistant to drugs.
+The idea --> to help doctors be able to prescribe the right drug💊, to kill off the infection 🦠 - FAST!
+
+## 💦🌈➡🧫 Fast Detection of Water Contaminations
+In a previous work, done in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx),
+I was part of an interdisciplinary team which used fluorescence spectroscopy to detect water contaminations.
+
+In that project, we collected water 💧 from different source wells and measured a huge spectrum 🌈 of auto-fluorescent signals. 
+Using machine learning, we managed to identify the contaminations at X10 below the minimum required range, both in lab models and in our real collected water.
+That project was part of a collaboration with [mekorot](https://www.mekorot-int.com/) and the results were published here: 
+[Nakar et al. 2020 - Quantification of bacteria in water using PLS analysis of emission spectra of fluorescence and excitation-emission matrices]
+(https://www.sciencedirect.com/science/article/abs/pii/S0043135419309716)
+
+You can also read up on it [here](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/): 
+
+
+
+
+# You can reach out to me at:
 
 📧: amir.nakar@uni-jena.de
 
