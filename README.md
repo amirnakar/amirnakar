@@ -1,6 +1,10 @@
 # Amir Nakar
-## PhD Student at Leibniz Institute of Photonic Technology
-### 🦠Microbiology 🔬Photonics 🎯Machine Learning
+ 🦠Microbiology 🔬Photonics 🎯Machine Learning
+ 
+I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany in [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html) where we focus on research and development of innovative optical/photonic methods for point-of-care analysis, diagnostics and therapy for medical, life and environmental sciences. 
+
+I also teach some lab courses at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - especially on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
+
 
 # Projects
 ## 💊➡🦠 Project Carbatech - Bacterial Diagnostics
@@ -22,9 +26,10 @@ That project was part of a collaboration with [mekorot](https://www.mekorot-int.
 
 [Nakar et al. 2020 - Quantification of bacteria in water using PLS analysis of emission spectra of fluorescence and excitation-emission matrices](https://www.sciencedirect.com/science/article/abs/pii/S0043135419309716)
 
-![pic](https://ars.els-cdn.com/content/image/1-s2.0-S0043135419309716-fx1_lrg.jpg)
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135419309716-fx1_lrg.jpg" width="800">
 
-You can also read up on it [here](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/): 
+
+You can also read up on it [here](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/) 
 
 
 
