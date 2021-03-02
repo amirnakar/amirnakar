@@ -16,7 +16,8 @@ We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resis
 In our work, we collect spectra directly from bacterial cells, and use machine learning algorithms (such as SVMs) to learn and predict whether those bacteria will be resistant to drugs.
 The idea --> to help doctors be able to prescribe the right drug💊, to kill off the infection 🦠 - FAST!
 
-[Klebsiella](https://github.com/amirnakar/KlebsiellaP)  | [Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline) | [Enterobacteriacea](https://github.com/amirnakar?tab=repositories) | [E. coli Resistance](https://github.com/amirnakar?tab=repositories)
+Private repos:
+[Klebsiella](https://github.com/amirnakar/KlebsiellaP)  | [Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline) | [Enterobacteriacea](https://github.com/amirnakar?tab=repositories) | [E. coli Resistance](https://github.com/amirnakar/ColiP)
 ## 💦🌈➡🧫 Fast Detection of Water Contaminations
 In a previous work, done in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx),
 I was part of an interdisciplinary team which used fluorescence spectroscopy to detect water contaminations.
