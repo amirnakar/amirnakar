@@ -1,7 +1,8 @@
 # Amir Nakar
  🦠Microbiology 🔬Photonics 🎯Machine Learning
  
-I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany in [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html) where we focus on research and development of innovative optical/photonic methods for point-of-care analysis, diagnostics and therapy for medical, life and environmental sciences. 
+I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany.
+In [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html) we focus on research and development of innovative optical/photonic methods for point-of-care analysis, diagnostics and therapy for medical, life and environmental sciences. 
 
 I also teach some lab courses at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - especially on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
 
