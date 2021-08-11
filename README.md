@@ -1,6 +1,9 @@
 # Amir Nakar
  🦠Microbiology 🔬Photonics 🎯Machine Learning
- 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amir-nakar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/amir-nakar?trk=profile-badge">Amir Nakar</a></div>
+              
+
 I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany.
 In [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html) we focus on research and development of innovative optical/photonic methods for point-of-care analysis, diagnostics and therapy for medical, life and environmental sciences. 
 
@@ -52,7 +55,7 @@ You can also read up on it [here](https://www.linkedin.com/feed/update/urn:li:ac
 
 <!--
 **amirnakar/amirnakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
