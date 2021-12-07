@@ -24,7 +24,7 @@ Or find me on:
 
 # Projects
 ## 💊➡🦠 Project Carbatech - Bacterial Diagnostics
-Sinec 2019, I've been studying medical applications of Raman spectroscopy. 
+Since 2019, I've been studying medical applications of Raman spectroscopy. 
 The work is done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
 
 We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resistant bacteria in hospitals. 
