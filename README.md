@@ -8,7 +8,7 @@ In [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/sp
 I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - especially on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
 
 ### 📱 Latest Tweets
-
+Well this doesn't work... I'll fix it later ⌚
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
 
@@ -20,6 +20,7 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
+
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][Researchgate]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][Scholar]
 
@@ -52,7 +53,13 @@ That project was part of a collaboration with [mekorot](https://www.mekorot-int.
 
 You can also read up on it [here](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/) 
 
-
+<!--
+To Do List: 
+1. Fix the twitter thing
+2. Set up more colours in the icons
+3. Add "skillz"
+4. Add writing?
+-->
 
 
 
