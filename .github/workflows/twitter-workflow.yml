@@ -1,4 +1,4 @@
-name: Latest Twitter Tweets
+name: Amir Nakar Twitter
 on:
   schedule:
     # Runs once a day because using Free tier in Rss.app
@@ -16,5 +16,5 @@ jobs:
           comment_tag_name: "TWITTER"
           feed_list: "<<[[https://rss.app/feeds/Fxw4qXScyD8hSSPX.xml]]>>"
           commit_message: "Updated with the latest tweets"
-          committer_username: "amirnakar"
-          committer_email: "anakar@ymail.com"
+          committer_username: "twitter-bot"
+          committer_email: "twitter-bot@example.com"
