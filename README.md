@@ -59,6 +59,7 @@ To Do List:
 2. Set up more colours in the icons
 3. Add "skillz"
 4. Add writing?
+https://nsaunders.wordpress.com/2010/06/17/create-your-own-google-scholar-rss-feed/
 -->
 
 
