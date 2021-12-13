@@ -1,26 +1,23 @@
 # Amir Nakar
  🦠Microbiology 🔬Photonics 🎯Machine Learning
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amir-nakar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/amir-nakar?trk=profile-badge">Amir Nakar</a></div>
               
 
-I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany.
+I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany. <br />
 In [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html) we focus on research and development of innovative optical/photonic methods for point-of-care analysis, diagnostics and therapy for medical, life and environmental sciences. 
 
-I also teach some lab courses at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - especially on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
+I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - especially on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
 
-## You can reach out to me at:
+### You can find me at:
 
-📧: amir.nakar@uni-jena.de
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://simpleicons.org/icons/maildotru.svg" />][Email]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][Researchgate]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][Scholar]
 
-
-Or find me on:
-
-<a href="https://www.linkedin.com/in/amir-nakar/"><img src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" width="50"/>;
-<a href="https://www.leibniz-ipht.de/en/employees.html?tx_wtdirectory_pi1%5Bshow%5D=7409&tx_rggooglemap_pi1%5Bpoi%5D=7409&cHash=6f622bdd4669bc4f710732bb1cadae1b"><img src="https://github.com/amirnakar/scratchboard/blob/master/PDFs%20and%20Cheatsheets/Leibniz%20IPHT.png" alt="drawing" width="50"/>;
-<a href="https://twitter.com/nakar_a"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/image_ibyytk.png" alt="drawing" width="50"/>;
-<a href="https://www.researchgate.net/profile/Amir_Nakar"><img src="https://github.com/amirnakar/scratchboard/blob/master/PDFs%20and%20Cheatsheets/ResearchgateLogo.jpg" alt="drawing" width="50"/>;
-
+<br />
 
 # Projects
 ## 💊➡🦠 Project Carbatech - Bacterial Diagnostics
@@ -67,3 +64,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+ 
+ </details>
+
+[website]: https://www.leibniz-ipht.de/en/author/206/
+[twitter]: https://twitter.com/nakar_a
+[linkedin]: https://www.linkedin.com/in/amir-nakar/
+[Researchgate]: https://www.researchgate.net/profile/Amir_Nakar
+[Scholar]: https://scholar.google.com/citations?user=qSmXfbcAAAAJ&hl=iw
+[email]: mailto:anakar@ymail.com
+
+ 
