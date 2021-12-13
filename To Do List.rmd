@@ -1,0 +1,6 @@
+1. Upload the code / data for the Klebsiella project
+2. Same for ColiP
+3. Same for EnteroP
+4. Fix up your "scratchboard" folder
+5. Make repos for Data Viz stuff (ggplot) with your coursework
+6. Make a repo for the course you've tought
