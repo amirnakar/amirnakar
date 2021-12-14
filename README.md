@@ -7,11 +7,6 @@ In [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/sp
 
 I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - especially on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
 
-### 📱 Latest Tweets
-Well this doesn't work... I'll fix it later ⌚
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
 
 ### You can find me at:
 
@@ -23,6 +18,13 @@ Well this doesn't work... I'll fix it later ⌚
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][Researchgate]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][Scholar]
+
+<br />
+<br />
+
+
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nakar_a&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 <br />
 
