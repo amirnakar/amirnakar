@@ -29,11 +29,11 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post Workflow GitHub Action](https://dev.to/gautamkrishnar/blog-post-workflow-github-action-1821)
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [@nakar_a: Anybody knows how to make this kind of plot in #R &lpar;#ggplot2 or #plotly&rpar;, and how to organize data?Each dot is a sample &lpar;patient&rpar;. I really like how it shows the distribution.Maybe... @dror_barak @AArgoetti @Dale_Masch #DatavisualizationOriginal fig:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e113eb9e0d0dd8655969266d3f70cea0d6ddfde6cf4a16c78db12069067d26fe5c311)
+- [@nakar_a: It&#39;s also interesting from a biological angle - how an organism can just add 30% of another organisms genes and still look and act almost the same?Makes you think.And makes me appreciate my pal Sindy even moreThe full story was published today:  &lpar;7/7&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e113eb9e0d0dd8655969266d3f70cea0d6ddedf6afba06375d712069165dc68e7c212)
+- [@nakar_a: What does this mean?It means that somehow, these highly infectious bacteria can trick us into thinking that they&#39;re one thing, while underneath they&#39;re a chimera of two!It means they might look normal but actually be drug resistant - and you&#39;ll find too late &lpar;6/7&rpar; 🏥🚑👩‍⚕️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e113eb9e0d0dd8655969266d3f70cea0d6ddedf6afba06375d91c0e9467d76ce5c013)
+- [@nakar_a: And yes, it checked. This MRSA was a hybrid! Somehow it got a large chunk of DNA from another type and attached it to itself.Now, microbiologists might say &quot;oh, happens all the time, plasmids and MGE etc&quot;. This one is special.This was 30% OF THE GENOME!... a real chimera! &lpar;5/7&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e113eb9e0d0dd8655969266d3f70cea0d6ddedf6afba06375db120c9566dc68e5c114)
+- [@nakar_a: She found a double match. A type that was actually two types!She re-ran the whole thing again, only to find again the double match.Strange. This never happened before.She then took out all the stops and sequenced the whole thing, with two devices! Just to make sure... &lpar;4/7&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e113eb9e0d0dd8655969266d3f70cea0d6ddedf6afba0637ad611069661d56ce3c71b)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
