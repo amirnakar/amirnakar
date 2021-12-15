@@ -13,8 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "TWITTER"
           feed_list: "https://rss.app/feeds/Fxw4qXScyD8hSSPX.xml"
-          commit_message: "Updated with the latest tweets"
-          committer_username: "twitter-bot"
-          committer_email: "twitter-bot@example.com"
