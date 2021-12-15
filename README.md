@@ -26,6 +26,13 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nakar_a&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br />
 
 # Projects
