@@ -28,10 +28,10 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 
 ### 📚 [Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
 <!-- GOODREADS-LIST:START -->
-- [The Fellowship of the Ring (The Lord of the Rings, #1)](https://www.goodreads.com/review/show/2218753590?utm_medium=api&utm_source=rss) by J.R.R. Tolkien
-- [Discourse on Method and Meditations on First Philosophy](https://www.goodreads.com/review/show/3533262655?utm_medium=api&utm_source=rss) by René Descartes
-- [Flatland: A Romance of Many Dimensions](https://www.goodreads.com/review/show/3225478753?utm_medium=api&utm_source=rss) by Edwin A. Abbott
-- [2010: Odyssey Two (Space Odyssey, #2)](https://www.goodreads.com/review/show/3221253718?utm_medium=api&utm_source=rss) by Arthur C. Clarke
+- [Blind Faith](https://www.goodreads.com/review/show/4384922075?utm_medium=api&utm_source=rss) by Ben Elton
+- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3087394502?utm_medium=api&utm_source=rss) by Daniel Kahneman
+- [Harry Potter and the Order of the Phoenix (Harry Potter, #5)](https://www.goodreads.com/review/show/728927033?utm_medium=api&utm_source=rss) by J.K. Rowling
+- [The Godfather (The Godfather, #1)](https://www.goodreads.com/review/show/690807160?utm_medium=api&utm_source=rss) by Mario Puzo
 <!-- GOODREADS-LIST:END -->
 
 # Projects
