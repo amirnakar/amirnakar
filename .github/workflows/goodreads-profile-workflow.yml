@@ -18,4 +18,4 @@ jobs:
           shelf: "read"
           template: "- [$title]($url) by $author"
           max_books_count: "4"
-          sort_by_fields: ">user_read_at"
+          sort_by_fields: "<user_read_at"
