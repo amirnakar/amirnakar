@@ -11,7 +11,7 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 ### Style #1
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="30" />]([linkedin])
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="30" />][linkedin]
 
 
 
@@ -28,7 +28,7 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 [<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="30" />]([linkedin])
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="30" />][linkedin]
 
 
 
