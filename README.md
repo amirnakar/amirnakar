@@ -28,6 +28,9 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Heroes: Mortals and Monsters, Quests and Adventures (Stephen Fry's Great Mythology, #2)](https://www.goodreads.com/review/show/4351005884?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.32)
+- [The Two Towers (The Lord of the Rings, #2)](https://www.goodreads.com/review/show/4358614900?utm_medium=api&utm_source=rss) by J.R.R. Tolkien (⭐️4.57)
+- [The Book of Chuang Tzu](https://www.goodreads.com/review/show/2752000140?utm_medium=api&utm_source=rss) by Zhuangzi (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
 # Projects
