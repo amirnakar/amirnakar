@@ -29,7 +29,7 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 
 
 # Projects
-## 💊➡🦠 Project Carbatech - Bacterial Diagnostics
+## 💊🔬🦠 Project Carbatech - Bacterial Diagnostics
 Since 2019, I've been studying medical applications of Raman spectroscopy. 
 The work is done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
 
@@ -40,30 +40,31 @@ The idea --> to help doctors be able to prescribe the right drug💊, to kill of
 
 ### Private repos:
 [Klebsiella](https://github.com/amirnakar/KlebsiellaP)  | [Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline) | [Enterobacteriacea](https://github.com/amirnakar/EnteroP) | [E. coli Resistance](https://github.com/amirnakar/ColiP) | [Sepsis](https://github.com/amirnakar/BloodIso)
+
+### ✍🏼 You can read about our work here:
+* [Invest in photonics now to fight infectious diseases and future pandemics](https://www.euractiv.com/section/health-consumers/opinion/invest-in-photonics-now-to-fight-infectious-diseases-and-future-pandemics/)
+
+
+
 ## 💦🌈➡🧫 Fast Detection of Water Contaminations
 In a previous work, done in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx),
 I was part of an interdisciplinary team which used fluorescence spectroscopy to detect water contaminations.
 
 In that project, we collected water 💧 from different source wells and measured a huge spectrum 🌈 of auto-fluorescent signals. 
 Using machine learning, we managed to identify the contaminations at X10 below the minimum required range, both in lab models and in our real collected water.
-That project was part of a collaboration with [mekorot](https://www.mekorot-int.com/) and the results were published here: 
-
-[Nakar et al. 2020 - Quantification of bacteria in water using PLS analysis of emission spectra of fluorescence and excitation-emission matrices](https://www.sciencedirect.com/science/article/abs/pii/S0043135419309716)
+That project was part of a collaboration with [mekorot](https://www.mekorot-int.com/) 
+### 📄 Peer Reviewed Publication:
+* [Nakar et al. 2020 - Quantification of bacteria in water using PLS analysis of emission spectra of fluorescence and excitation-emission matrices](https://www.sciencedirect.com/science/article/abs/pii/S0043135419309716)
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135419309716-fx1_lrg.jpg" width="800">
 
+### Private repos:
+[Water](https://github.com/amirnakar/KlebsiellaP) |
 
-You can also read up on it [here](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/) 
-
-<!--
-To Do List: 
-1. Fix the twitter thing
-2. Set up more colours in the icons
-3. Add "skillz"
-4. Add writing?
-https://nsaunders.wordpress.com/2010/06/17/create-your-own-google-scholar-rss-feed/
--->
-
+### ✍🏼 You can read moure about our work here:
+* [Research: A new method for early warning of bacterial contamination in #drinkingwater](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/) 
+* [Detecting water contamination before it reaches your tap](https://www.israel21c.org/detecting-water-contamination-before-it-reaches-your-tap/)
+* [לגלות את הזיהום עוד לפני שהוא מגיע לברז](https://www.haaretz.co.il/blogs/roibetlevi/BLOG-1.9794448)
 
 
 <!--
