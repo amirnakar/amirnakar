@@ -1,7 +1,7 @@
 # Amir Nakar
  🦠Microbiology 🔬Photonics 🎯Machine Learning
               
-
+## ABOUT
 I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany. <br />
 In [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html) we focus on research and development of innovative optical/photonic methods for point-of-care analysis, diagnostics and therapy for medical, life and environmental sciences. 
 
@@ -11,27 +11,20 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 ### You can connect with me on:
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="30" />][linkedin]
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="30" />][linkedin]
 &nbsp;
 [<img src="https://img.shields.io/badge/@a_nakar-%231DA1F2.svg??style=flat&logo=Twitter&logoColor=white" alt="Twitter" title="Twitter" height="30" />][Twitter]
 &nbsp;
+[<img src="https://img.shields.io/badge/✉ Email-D14836?style=flat&" alt="Email" title="Email" height="30" />][Email]
+&nbsp;
+[<img src="https://img.shields.io/badge/📎Website-6c757d?style=flat&" alt="Email" title="Email" height="30" />][Website]
 
 [<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" alt="ResearchGate" title="ResearchGate" height="30" />][ResearchGate]
 &nbsp;
 [<img src="https://img.shields.io/badge/Scholar-4285f4?style=flat&logo=googlescholar&logoColor=white" alt="Scholar" title="Scholar" height="30" />][Scholar]
 &nbsp;
-
-[<img src="https://img.shields.io/badge/✉ Email-D14836?style=flat&" alt="Email" title="Email" height="30" />][Email]
-&nbsp;
-[<img src="https://img.shields.io/badge/📎Website-6c757d?style=flat&" alt="Email" title="Email" height="30" />][Website]
-
 [<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" title="Stack Overflow" height="30" />](https://stackoverflow.com/users/11983659/anakar)
 &nbsp;
-
-
-
-
-
 
 
 
@@ -45,7 +38,7 @@ We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resis
 In our work, we collect spectra directly from bacterial cells, and use machine learning algorithms (such as SVMs) to learn and predict whether those bacteria will be resistant to drugs.
 The idea --> to help doctors be able to prescribe the right drug💊, to kill off the infection 🦠 - FAST!
 
-Private repos:
+### Private repos:
 [Klebsiella](https://github.com/amirnakar/KlebsiellaP)  | [Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline) | [Enterobacteriacea](https://github.com/amirnakar/EnteroP) | [E. coli Resistance](https://github.com/amirnakar/ColiP) | [Sepsis](https://github.com/amirnakar/BloodIso)
 ## 💦🌈➡🧫 Fast Detection of Water Contaminations
 In a previous work, done in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx),
