@@ -28,10 +28,10 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 
 ### 📚 [Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
 <!-- GOODREADS-LIST:START -->
-- [As You Like It](https://www.goodreads.com/review/show/2265626819?utm_medium=api&utm_source=rss) by William Shakespeare
-- [גירושים מאוחרים](https://www.goodreads.com/review/show/2318185165?utm_medium=api&utm_source=rss) by A.B. Yehoshua
-- [Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)](https://www.goodreads.com/review/show/2718537526?utm_medium=api&utm_source=rss) by Douglas Adams
-- [Harry Potter and the Chamber of Secrets (Harry Potter, #2)](https://www.goodreads.com/review/show/728927345?utm_medium=api&utm_source=rss) by J.K. Rowling
+- [The Fellowship of the Ring (The Lord of the Rings, #1)](https://www.goodreads.com/review/show/2218753590?utm_medium=api&utm_source=rss) by J.R.R. Tolkien
+- [Discourse on Method and Meditations on First Philosophy](https://www.goodreads.com/review/show/3533262655?utm_medium=api&utm_source=rss) by René Descartes
+- [Flatland: A Romance of Many Dimensions](https://www.goodreads.com/review/show/3225478753?utm_medium=api&utm_source=rss) by Edwin A. Abbott
+- [2010: Odyssey Two (Space Odyssey, #2)](https://www.goodreads.com/review/show/3221253718?utm_medium=api&utm_source=rss) by Arthur C. Clarke
 <!-- GOODREADS-LIST:END -->
 
 # Projects
