@@ -26,7 +26,7 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 [<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" title="Stack Overflow" height="30" />](https://stackoverflow.com/users/11983659/anakar)
 &nbsp;
 
-### Books I'm currently reading
+### 📚 [Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
 <!-- GOODREADS-LIST:START -->
 - [Heroes: Mortals and Monsters, Quests and Adventures (Stephen Fry's Great Mythology, #2)](https://www.goodreads.com/review/show/4351005884?utm_medium=api&utm_source=rss) by Stephen Fry
 - [The Two Towers (The Lord of the Rings, #2)](https://www.goodreads.com/review/show/4358614900?utm_medium=api&utm_source=rss) by J.R.R. Tolkien
