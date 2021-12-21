@@ -1,5 +1,5 @@
 # Amir Nakar
- 🦠Microbiology 🔬Photonics 🎯Machine Learning
+### 🦠Microbiology 🔬Photonics 🎯Machine Learning
               
 ## ABOUT
 I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany. <br />
