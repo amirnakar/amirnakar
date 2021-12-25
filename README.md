@@ -1,5 +1,5 @@
 # Amir Nakar
- 🦠Microbiology 🔬Photonics 🎯Machine Learning
+### 🦠Microbiology 🔬Photonics 🎯Machine Learning
               
 ## ABOUT
 I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany. <br />
@@ -26,11 +26,12 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 [<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" title="Stack Overflow" height="30" />](https://stackoverflow.com/users/11983659/anakar)
 &nbsp;
 
-### Books I'm currently reading
+### 📚 [Books I Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
 <!-- GOODREADS-LIST:START -->
-- [Heroes: Mortals and Monsters, Quests and Adventures (Stephen Fry's Great Mythology, #2)](https://www.goodreads.com/review/show/4351005884?utm_medium=api&utm_source=rss) by Stephen Fry (⭐️4.32)
-- [The Two Towers (The Lord of the Rings, #2)](https://www.goodreads.com/review/show/4358614900?utm_medium=api&utm_source=rss) by J.R.R. Tolkien (⭐️4.57)
-- [The Book of Chuang Tzu](https://www.goodreads.com/review/show/2752000140?utm_medium=api&utm_source=rss) by Zhuangzi (⭐️4.4)
+- [Blind Faith](https://www.goodreads.com/review/show/4384922075?utm_medium=api&utm_source=rss) by Ben Elton
+- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3087394502?utm_medium=api&utm_source=rss) by Daniel Kahneman
+- [Harry Potter and the Order of the Phoenix (Harry Potter, #5)](https://www.goodreads.com/review/show/728927033?utm_medium=api&utm_source=rss) by J.K. Rowling
+- [The Godfather (The Godfather, #1)](https://www.goodreads.com/review/show/690807160?utm_medium=api&utm_source=rss) by Mario Puzo
 <!-- GOODREADS-LIST:END -->
 
 # Projects
@@ -43,7 +44,7 @@ We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resis
 In our work, we collect spectra directly from bacterial cells, and use machine learning algorithms (such as SVMs) to learn and predict whether those bacteria will be resistant to drugs.
 The idea --> to help doctors be able to prescribe the right drug💊, to kill off the infection 🦠 - FAST!
 
-### Private repos:
+### ⚙ Private repos:
 [Klebsiella](https://github.com/amirnakar/KlebsiellaP)  | [Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline) | [Enterobacteriacea](https://github.com/amirnakar/EnteroP) | [E. coli Resistance](https://github.com/amirnakar/ColiP) | [Sepsis](https://github.com/amirnakar/BloodIso)
 
 ### ✍🏼 You can read about our work here:
@@ -63,10 +64,10 @@ That project was part of a collaboration with [mekorot](https://www.mekorot-int.
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135419309716-fx1_lrg.jpg" width="800">
 
-### Private repos:
+### ⚙ Private repos:
 [Water](https://github.com/amirnakar/KlebsiellaP) |
 
-### ✍🏼 You can read moure about our work here:
+### ✍🏼 You can read more about our work here:
 * [Research: A new method for early warning of bacterial contamination in #drinkingwater](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/) 
 * [Detecting water contamination before it reaches your tap](https://www.israel21c.org/detecting-water-contamination-before-it-reaches-your-tap/)
 * [לגלות את הזיהום עוד לפני שהוא מגיע לברז](https://www.haaretz.co.il/blogs/roibetlevi/BLOG-1.9794448)
