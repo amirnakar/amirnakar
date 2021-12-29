@@ -72,6 +72,9 @@ That project was part of a collaboration with [mekorot](https://www.mekorot-int.
 * [Detecting water contamination before it reaches your tap](https://www.israel21c.org/detecting-water-contamination-before-it-reaches-your-tap/)
 * [לגלות את הזיהום עוד לפני שהוא מגיע לברז](https://www.haaretz.co.il/blogs/roibetlevi/BLOG-1.9794448)
 
+# Quick Links for me
+[Tidyverse](https://github.com/amirnakar/scratchboard/tree/master/Tidyverse%20Course)
+[ggplot](https://github.com/amirnakar/scratchboard/blob/master/PDFs%20and%20Cheatsheets/ggplot%20cheatsheet.pdf)
 
 <!--
 **amirnakar/amirnakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
