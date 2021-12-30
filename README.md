@@ -1,5 +1,6 @@
 # Amir Nakar
 ### 🦠Microbiology 🔬Photonics 🎯Machine Learning
+
               
 ## ABOUT
 I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany. <br />
@@ -71,6 +72,25 @@ That project was part of a collaboration with [mekorot](https://www.mekorot-int.
 * [Research: A new method for early warning of bacterial contamination in #drinkingwater](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/) 
 * [Detecting water contamination before it reaches your tap](https://www.israel21c.org/detecting-water-contamination-before-it-reaches-your-tap/)
 * [לגלות את הזיהום עוד לפני שהוא מגיע לברז](https://www.haaretz.co.il/blogs/roibetlevi/BLOG-1.9794448)
+
+# StackOverflow stats
+[<img height="200px"
+  src="https://stackoverflow-card.vercel.app/?userID=11983659&theme=stackoverflow-light"
+/>][Stack]
+
+<!--
+showLogo: true
+theme: [stackoverflow-dark, stackoverflow-light, dracula, ...]
+showBorder: true
+showIcons: true
+showAnimations: true
+-->
+
+
+
+
+
+
 
 # Quick Links for me
 [Tidyverse](https://github.com/amirnakar/scratchboard/tree/master/Tidyverse%20Course) |
