@@ -53,17 +53,21 @@ The work is done with a wonderful team, under the supervision of [Prof. Juergen 
 We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resistant bacteria in hospitals. 
 
 In our work, we collect spectra directly from bacterial cells, and use machine learning algorithms (such as SVMs) to learn and predict whether those bacteria will be resistant to drugs.
-The idea --> to help doctors be able to prescribe the right drug💊, to kill off the infection 🦠 - FAST!
+The idea --> to help doctors be able to prescribe the right drug 💊, to kill off the infection 🦠 - FAST!
 
 ### ⚙ Private repos:
-[Klebsiella](https://github.com/amirnakar/KlebsiellaP)  | [Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline) | [Enterobacteriacea](https://github.com/amirnakar/EnteroP) | [E. coli Resistance](https://github.com/amirnakar/ColiP) | [Sepsis](https://github.com/amirnakar/BloodIso)
+[Enterobacteriacea](https://github.com/amirnakar/EnteroP) |
+[Klebsiella](https://github.com/amirnakar/KlebsiellaP)  |
+[E. coli Resistance](https://github.com/amirnakar/ColiP) | 
+[Sepsis](https://github.com/amirnakar/BloodIso) |
+[Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline)
 
 ### ✍🏼 You can read about our work here:
 * [Invest in photonics now to fight infectious diseases and future pandemics](https://www.euractiv.com/section/health-consumers/opinion/invest-in-photonics-now-to-fight-infectious-diseases-and-future-pandemics/)
 
 
 
-## 💦🌈➡🧫 Fast Detection of Water Contaminations
+## 💦🌈🧫 Fast Detection of Water Contaminations
 In a previous work, done in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx),
 I was part of an interdisciplinary team which used fluorescence spectroscopy to detect water contaminations.
 
