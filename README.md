@@ -77,10 +77,10 @@ That project was part of a collaboration with [mekorot](https://www.mekorot-int.
 ### 📄 Peer Reviewed Publication:
 * [Nakar et al. 2020 - Quantification of bacteria in water using PLS analysis of emission spectra of fluorescence and excitation-emission matrices](https://www.sciencedirect.com/science/article/abs/pii/S0043135419309716)
 
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135419309716-fx1_lrg.jpg" width="800">
+[<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135419309716-fx1_lrg.jpg" width="800">](https://www.sciencedirect.com/science/article/abs/pii/S0043135419309716)
 
 ### ⚙ Private repos:
-[Water](https://github.com/amirnakar/KlebsiellaP) |
+[Water](https://github.com/amirnakar/Water) |
 
 ### ✍🏼 You can read more about our work here:
 * [Research: A new method for early warning of bacterial contamination in #drinkingwater](https://www.linkedin.com/feed/update/urn:li:activity:6721427914832785409/) 
