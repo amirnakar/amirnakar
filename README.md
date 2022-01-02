@@ -27,6 +27,16 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 [<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" title="Stack Overflow" height="30" />](https://stackoverflow.com/users/11983659/anakar)
 &nbsp;
 
+### I like to work with
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="RStats" title="RStats" height="35" />](https://www.r-project.org/) ➕ 
+[<img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2" height="35" />](https://ggplot2.tidyverse.org/index.html), 
+[<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" title="Python" height="35" />](https://www.python.org/) ➕
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" title="Jupyter Notebook" height="35" />](https://jupyter.org/), 
+[<img src="https://www.additive-net.de/images/software/originLab/logos/origin_signet.png" alt="Origin" title="Origin" height="35" />](https://www.originlab.com/)
+
+
+
+
 ### 📚 [Books I Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
 <!-- GOODREADS-LIST:START -->
 - [האוצר](https://www.goodreads.com/review/show/4413391857?utm_medium=api&utm_source=rss) by שלום עליכם
