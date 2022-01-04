@@ -55,6 +55,12 @@ We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resis
 In our work, we collect spectra directly from bacterial cells, and use machine learning algorithms (such as SVMs) to learn and predict whether those bacteria will be resistant to drugs.
 The idea --> to help doctors be able to prescribe the right drug 💊, to kill off the infection 🦠 - FAST!
 
+### 📄 Peer Reviewed Publication:
+* [Nakar et al. 2022 - Detection of multi-resistant clinical strains of E. coli with Raman spectroscopy](https://link.springer.com/article/10.1007/s00216-021-03800-y)
+
+[<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03800-y/MediaObjects/216_2021_3800_Figg_HTML.png?as=webp" width="600">](https://link.springer.com/article/10.1007/s00216-021-03800-y)
+
+
 ### ⚙ Private repos:
 [Enterobacteriacea](https://github.com/amirnakar/EnteroP) |
 [Klebsiella](https://github.com/amirnakar/KlebsiellaP)  |
@@ -64,6 +70,8 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 
 ### ✍🏼 You can read about our work here:
 * [Invest in photonics now to fight infectious diseases and future pandemics](https://www.euractiv.com/section/health-consumers/opinion/invest-in-photonics-now-to-fight-infectious-diseases-and-future-pandemics/)
+
+
 
 
 
