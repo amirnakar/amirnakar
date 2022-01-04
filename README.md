@@ -39,10 +39,10 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 
 ### 📚 [Books I Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
 <!-- GOODREADS-LIST:START -->
-- [האוצר](https://www.goodreads.com/review/show/4413391857?utm_medium=api&utm_source=rss) by שלום עליכם
+- [Inconceivable](https://www.goodreads.com/review/show/3879045675?utm_medium=api&utm_source=rss) by Ben Elton
+- [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/4345478298?utm_medium=api&utm_source=rss) by Douglas Adams
 - [Blind Faith](https://www.goodreads.com/review/show/4384922075?utm_medium=api&utm_source=rss) by Ben Elton
-- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3087394502?utm_medium=api&utm_source=rss) by Daniel Kahneman
-- [Harry Potter and the Order of the Phoenix (Harry Potter, #5)](https://www.goodreads.com/review/show/728927033?utm_medium=api&utm_source=rss) by J.K. Rowling
+- [האוצר](https://www.goodreads.com/review/show/4413391857?utm_medium=api&utm_source=rss) by שלום עליכם
 <!-- GOODREADS-LIST:END -->
 
 # Projects
