@@ -1,12 +1,15 @@
 # Amir Nakar
-### 🦠Microbiology 🔬Photonics 🎯Machine Learning
-
+###
               
 ## ABOUT
-I'm a PhD Student at Leibniz Institute of Photonic Technology, in Jena, Germany. <br />
-In [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html) we focus on research and development of innovative optical/photonic methods for point-of-care analysis, diagnostics and therapy for medical, life and environmental sciences. 
+I work for MeMed, a med-tech company developing a diagnostic tool based on host immune response.
 
-I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - especially on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
+We're using the host response to diagnose patients and reduce antibiotic overuse 🩺💊🦠
+In my role as Scientific Affairs Lead I help establish international research collaborations, write papers about MeMed's latest clinical trial results and search for future funding opportunities
+
+I did my PhD  at Leibniz Institute of Photonic Technology, in [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html), working on research and development of innovative optical/photonic tools for point-of-care microbial diagnostics. 
+
+I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - courses on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
 
 
 ### You can connect with me on:
@@ -45,7 +48,7 @@ I also teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.
 - [האוצר](https://www.goodreads.com/review/show/4413391857?utm_medium=api&utm_source=rss) by שלום עליכם
 <!-- GOODREADS-LIST:END -->
 
-# Projects
+# Past Projects
 ## 💊🔬🦠 Project Carbatech - Bacterial Diagnostics
 Since 2019, I've been studying medical applications of Raman spectroscopy. 
 The work is done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
