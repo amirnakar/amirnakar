@@ -50,12 +50,12 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 # Past Projects
 ## 💊🔬🦠 Project Carbatech - Bacterial Diagnostics
-Since 2019, I've been studying medical applications of Raman spectroscopy. 
-The work is done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
+Between 2019-2021, I worked on medical applications of Raman spectroscopy. 
+The work was done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
 
-We are trying to use Raman spectroscopy for fast diagnostics of antibiotic resistant bacteria in hospitals. 
+We were trying to use Raman spectroscopy for fast diagnostics of antibiotic resistant bacteria in hospitals. 
 
-In our work, we collect spectra directly from bacterial cells, and use machine learning algorithms (such as SVMs) to learn and predict whether those bacteria will be resistant to drugs.
+In our work, we collected spectra directly from bacterial cells, and used machine learning algorithms (such as SVMs) to predict whether those bacteria are resistant to drugs.
 The idea --> to help doctors be able to prescribe the right drug 💊, to kill off the infection 🦠 - FAST!
 
 ### 📄 Peer Reviewed Publication:
@@ -79,7 +79,7 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 
 
 ## 💦🌈🧫 Fast Detection of Water Contaminations
-In a previous work, done in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx),
+In 2016-2018 I worked in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx).
 I was part of an interdisciplinary team which used fluorescence spectroscopy to detect water contaminations.
 
 In that project, we collected water 💧 from different source wells and measured a huge spectrum 🌈 of auto-fluorescent signals. 
