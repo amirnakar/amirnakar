@@ -2,9 +2,9 @@
 ###
               
 ## ABOUT
-I work for MeMed, a med-tech company developing a diagnostic tool based on host immune response.
+I work for [MeMed](https://www.me-med.com/), a med-tech company developing a diagnostic tool based on [host immune response](https://en.wikipedia.org/wiki/Immune_response).
 
-We're using the host response to diagnose patients and reduce antibiotic overuse 🩺💊🦠
+We're using the host response to diagnose patients and reduce [antibiotic overuse](https://www.who.int/news-room/fact-sheets/detail/antibiotic-resistance) 🩺💊🦠
 In my role as Scientific Affairs Lead I help establish international research collaborations, write papers about MeMed's latest clinical trial results and search for future funding opportunities
 
 I did my PhD  at Leibniz Institute of Photonic Technology, in [Juergen Popp's group](https://www.leibniz-ipht.de/en/research/departments/spectroscopy-and-imaging/overview.html), working on research and development of innovative optical/photonic tools for point-of-care microbial diagnostics. 
