@@ -42,10 +42,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 [Books I Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
 <!-- GOODREADS-LIST:START -->
+- [The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)](https://www.goodreads.com/review/show/4561739042?utm_medium=api&utm_source=rss) by Douglas Adams
 - [The Long Dark Tea-Time of the Soul (Dirk Gently, #2)](https://www.goodreads.com/review/show/2137478794?utm_medium=api&utm_source=rss) by Douglas Adams
 - [Inconceivable](https://www.goodreads.com/review/show/3879045675?utm_medium=api&utm_source=rss) by Ben Elton
 - [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/4345478298?utm_medium=api&utm_source=rss) by Douglas Adams
-- [Blind Faith](https://www.goodreads.com/review/show/4384922075?utm_medium=api&utm_source=rss) by Ben Elton
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
