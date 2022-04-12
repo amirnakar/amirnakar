@@ -60,8 +60,9 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 
 ### 📄 Peer Reviewed Publication:
 * [Nakar et al. 2022 - Detection of multi-resistant clinical strains of E. coli with Raman spectroscopy](https://link.springer.com/article/10.1007/s00216-021-03800-y)
+[<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03800-y/MediaObjects/216_2021_3800_Figg_HTML.png?as=webp" width="500">](https://link.springer.com/article/10.1007/s00216-021-03800-y)
 
-[<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03800-y/MediaObjects/216_2021_3800_Figg_HTML.png?as=webp" width="600">](https://link.springer.com/article/10.1007/s00216-021-03800-y)
+* [Nakar et al. 2022 - Label‐free Differentiation of clinical E. coli and Klebsiella isolates with Raman Spectroscopy](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200005)
 
 
 ### ⚙ Private repos:
