@@ -1,7 +1,6 @@
 # Amir Nakar
 ###
               
-## ABOUT
 I work for [MeMed](https://www.me-med.com/), a med-tech company developing a diagnostic tool based on [host immune response](https://en.wikipedia.org/wiki/Immune_response).
 
 We're using the host response to diagnose patients and reduce [antibiotic overuse](https://www.who.int/news-room/fact-sheets/detail/antibiotic-resistance) 🩺💊🦠
@@ -21,7 +20,7 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 &nbsp;
 [<img src="https://img.shields.io/badge/✉ Email-D14836?style=flat&" alt="Email" title="Email" height="30" />][Email]
 &nbsp;
-[<img src="https://img.shields.io/badge/📎Website-6c757d?style=flat&" alt="Email" title="Email" height="30" />][Website]
+[<img src="https://img.shields.io/badge/📎Website-6c757d?style=flat&" alt="Email" title="Email" height="30" />][linkedin]
 
 [<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" alt="ResearchGate" title="ResearchGate" height="30" />][ResearchGate]
 &nbsp;
@@ -30,17 +29,21 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 [<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" title="Stack Overflow" height="30" />](https://stackoverflow.com/users/11983659/anakar)
 &nbsp;
 
-### I like to work with
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="RStats" title="RStats" height="35" />](https://www.r-project.org/) ➕ 
-[<img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2" height="35" />](https://ggplot2.tidyverse.org/index.html), 
-[<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" title="Python" height="35" />](https://www.python.org/) ➕
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" title="Jupyter Notebook" height="35" />](https://jupyter.org/), 
-[<img src="https://www.additive-net.de/images/software/originLab/logos/origin_signet.png" alt="Origin" title="Origin" height="35" />](https://www.originlab.com/)
+### 💻 I like to work with
+* 📈 For data analysis and vizualisation: 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="RStats" title="RStats" height="35" />](https://www.r-project.org/) with [<img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2" height="35" />](https://ggplot2.tidyverse.org/index.html)
+* 🤝🏻For collaborative work: [<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" title="Python" height="35" />](https://www.python.org/) with [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" title="Jupyter Notebook" height="35" />](https://jupyter.org/)
+* 📊For complicated scientific figures: [<img src="https://www.additive-net.de/images/software/originLab/logos/origin_signet.png" alt="Origin" title="Origin" height="35" />](https://www.originlab.com/)
+
+### 🔍 Research Tools Everyone Should Know:
+* [<img src="https://miro.medium.com/max/402/1*yKaHeYCgTFvVeBwnRQ3O_w.png?as=webp" height="35">](https://www.connectedpapers.com/) [Connected Papers](https://www.connectedpapers.com/): creates a networks of the works connected to a publication
+
+* [<img src="https://biosemantics.erasmusmc.nl/images/jane.png?as=webp" height="35">](https://jane.biosemantics.org/)[JANE: Journal/Author Name Estimator](https://jane.biosemantics.org/): I use this especially to find **reviewers**
+
+* [<img src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png?as=webp" height="35">](https://www.zotero.org/)[Zotero](https://www.zotero.org/): A great tool for managing citations and integrating them into work (sure, you can also use [Endnote](https://endnote.com/) or [Mendeley](https://www.mendeley.com/))
 
 
-
-
-### 📚 [Books I Recently read](https://www.goodreads.com/user/show/22975284-amir-nakar)
+### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
 - [The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)](https://www.goodreads.com/review/show/4561739042?utm_medium=api&utm_source=rss) by Douglas Adams
 - [The Long Dark Tea-Time of the Soul (Dirk Gently, #2)](https://www.goodreads.com/review/show/2137478794?utm_medium=api&utm_source=rss) by Douglas Adams
@@ -60,10 +63,10 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 
 ### 📄 Peer Reviewed Publication:
 * [Nakar et al. 2022 - Detection of multi-resistant clinical strains of E. coli with Raman spectroscopy](https://link.springer.com/article/10.1007/s00216-021-03800-y)
-[<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03800-y/MediaObjects/216_2021_3800_Figg_HTML.png?as=webp" width="500">](https://link.springer.com/article/10.1007/s00216-021-03800-y)
-
+<kbd>[<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03800-y/MediaObjects/216_2021_3800_Figg_HTML.png?as=webp" width="500">](https://link.springer.com/article/10.1007/s00216-021-03800-y)</kbd>  
+  
 * [Nakar et al. 2022 - Label‐free Differentiation of clinical E. coli and Klebsiella isolates with Raman Spectroscopy](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200005)
-
+<kbd>[<img src="https://onlinelibrary.wiley.com/cms/asset/f017942f-53b5-4003-9e50-0b8f38e974ac/jbio202200005-gra-0001.png?as=webp" width="300">](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200005)</kbd>  
 
 ### ⚙ Private repos:
 [Enterobacteriacea](https://github.com/amirnakar/EnteroP) |
@@ -80,7 +83,7 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 
 
 ## 💦🌈🧫 Fast Detection of Water Contaminations
-In 2016-2018 I worked in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx).
+Between 2016-2018 I worked in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx).
 I was part of an interdisciplinary team which used fluorescence spectroscopy to detect water contaminations.
 
 In that project, we collected water 💧 from different source wells and measured a huge spectrum 🌈 of auto-fluorescent signals. 
