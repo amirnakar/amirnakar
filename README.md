@@ -45,7 +45,7 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
-- [Murder on the Orient Express (Hercule Poirot, #10)](https://www.goodreads.com/review/show/4678866074?utm_medium=api&utm_source=rss) by Agatha Christie
+- [Murder on the Orient Express](https://www.goodreads.com/review/show/4678866074?utm_medium=api&utm_source=rss) by Agatha Christie
 - [The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)](https://www.goodreads.com/review/show/4561739042?utm_medium=api&utm_source=rss) by Douglas Adams
 - [The Long Dark Tea-Time of the Soul (Dirk Gently, #2)](https://www.goodreads.com/review/show/2137478794?utm_medium=api&utm_source=rss) by Douglas Adams
 - [Inconceivable](https://www.goodreads.com/review/show/3879045675?utm_medium=api&utm_source=rss) by Ben Elton
