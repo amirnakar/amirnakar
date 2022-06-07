@@ -30,18 +30,12 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 &nbsp;
 
 ### 💻 I like to work with
-* 📈 For data analysis and vizualisation: 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="RStats" title="RStats" height="35" />](https://www.r-project.org/) with [<img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2" height="35" />](https://ggplot2.tidyverse.org/index.html)
-* 🤝🏻For collaborative work: [<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" title="Python" height="35" />](https://www.python.org/) with [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" title="Jupyter Notebook" height="35" />](https://jupyter.org/)
-* 📊For complicated scientific figures: [<img src="https://www.additive-net.de/images/software/originLab/logos/origin_signet.png" alt="Origin" title="Origin" height="35" />](https://www.originlab.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="RStats" title="RStats" height="35" />](https://www.r-project.org/) [<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" title="Python" height="35" />](https://www.python.org/)  [<img src="https://www.additive-net.de/images/software/originLab/logos/origin_signet.png" alt="Origin" title="Origin" height="35" />](https://www.originlab.com/)
 
 ### 🔍 Research Tools Everyone Should Know:
-* [<img src="https://miro.medium.com/max/402/1*yKaHeYCgTFvVeBwnRQ3O_w.png?as=webp" height="35">](https://www.connectedpapers.com/) [Connected Papers](https://www.connectedpapers.com/): creates a networks of the works connected to a publication
-
-* [<img src="https://biosemantics.erasmusmc.nl/images/jane.png?as=webp" height="35">](https://jane.biosemantics.org/)[JANE: Journal/Author Name Estimator](https://jane.biosemantics.org/): I use this especially to find **reviewers**
-
-* [<img src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png?as=webp" height="35">](https://www.zotero.org/)[Zotero](https://www.zotero.org/): A great tool for managing citations and integrating them into work (sure, you can also use [Endnote](https://endnote.com/) or [Mendeley](https://www.mendeley.com/))
-
+[<img src="https://miro.medium.com/max/402/1*yKaHeYCgTFvVeBwnRQ3O_w.png?as=webp" height="35">](https://www.connectedpapers.com/)
+[<img src="https://biosemantics.erasmusmc.nl/images/jane.png?as=webp" height="35">](https://jane.biosemantics.org/)
+[<img src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png?as=webp" height="35">](https://www.zotero.org)
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
@@ -51,8 +45,8 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 - [Inconceivable](https://www.goodreads.com/review/show/3879045675?utm_medium=api&utm_source=rss) by Ben Elton
 <!-- GOODREADS-LIST:END -->
 
-# Past Projects
-## 💊🔬🦠 Project Carbatech - Bacterial Diagnostics
+# Projects
+## CARBATECH - Bacterial Diagnostics 💊🔬🦠 
 Between 2019-2021, I worked on medical applications of Raman spectroscopy. 
 The work was done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
 
@@ -77,12 +71,13 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 
 ### ✍🏼 You can read about our work here:
 * [Invest in photonics now to fight infectious diseases and future pandemics](https://www.euractiv.com/section/health-consumers/opinion/invest-in-photonics-now-to-fight-infectious-diseases-and-future-pandemics/)
+* [Project Website](https://www.gesundheitsforschung-bmbf.de/de/carbatech-neuartige-technologien-zur-uberwachung-und-charakterisierung-von-ss-lactamase-und-7935.php)
 
 
 
 
 
-## 💦🌈🧫 Fast Detection of Water Contaminations
+## Fast Detection of Water Contaminations 💦🌈🧫 
 Between 2016-2018 I worked in [Volcani Center](https://www.agri.gov.il/en/units/institutes/8.aspx).
 I was part of an interdisciplinary team which used fluorescence spectroscopy to detect water contaminations.
 
