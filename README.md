@@ -39,10 +39,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)](https://www.goodreads.com/review/show/730892417?utm_medium=api&utm_source=rss) by Douglas Adams
 - [Harry Potter and the Half-Blood Prince (Harry Potter, #6)](https://www.goodreads.com/review/show/728927378?utm_medium=api&utm_source=rss) by J.K. Rowling
 - [Murder on the Orient Express (Hercule Poirot, #9)](https://www.goodreads.com/review/show/4678866074?utm_medium=api&utm_source=rss) by Agatha Christie
 - [The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)](https://www.goodreads.com/review/show/4561739042?utm_medium=api&utm_source=rss) by Douglas Adams
-- [The Long Dark Tea-Time of the Soul (Dirk Gently, #2)](https://www.goodreads.com/review/show/2137478794?utm_medium=api&utm_source=rss) by Douglas Adams
 <!-- GOODREADS-LIST:END -->
 
 # Projects
