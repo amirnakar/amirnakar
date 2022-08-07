@@ -55,7 +55,7 @@ We were trying to use Raman spectroscopy for fast diagnostics of antibiotic resi
 In our work, we collected spectra directly from bacterial cells, and used machine learning algorithms (such as SVMs) to predict whether those bacteria are resistant to drugs.
 The idea --> to help doctors be able to prescribe the right drug 💊, to kill off the infection 🦠 - FAST!
 
-### 📄 Peer Reviewed Publication:
+### 📄 Peer Reviewed Publications:
 1. [Nakar et al. 2022 - Detection of multi-resistant clinical strains of E. coli with Raman spectroscopy](https://link.springer.com/article/10.1007/s00216-021-03800-y)
 2. [Nakar et al. 2022 - Label‐free Differentiation of clinical E. coli and Klebsiella isolates with Raman Spectroscopy](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200005)
 2. [Nakar et al. 2022 - Raman spectroscopy for the differentiation of Enterobacteriaceae: a comparison of two methods†	](https://pubs.rsc.org/en/content/articlelanding/2022/AN/D2AN00822J)
