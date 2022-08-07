@@ -45,7 +45,7 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 - [The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)](https://www.goodreads.com/review/show/4561739042?utm_medium=api&utm_source=rss) by Douglas Adams
 <!-- GOODREADS-LIST:END -->
 
-# Projects
+# Past Projects
 ## CARBATECH - Bacterial Diagnostics 💊🔬🦠 
 Between 2019-2021, I worked on medical applications of Raman spectroscopy. 
 The work was done with a wonderful team, under the supervision of [Prof. Juergen Popp](https://www.ipc.uni-jena.de/en/research+groups/popp+group) and Dr. Petra Roesch
@@ -57,10 +57,10 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 
 ### 📄 Peer Reviewed Publication:
 1. [Nakar et al. 2022 - Detection of multi-resistant clinical strains of E. coli with Raman spectroscopy](https://link.springer.com/article/10.1007/s00216-021-03800-y)
-<kbd>[<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03800-y/MediaObjects/216_2021_3800_Figg_HTML.png?as=webp" width="500">](https://link.springer.com/article/10.1007/s00216-021-03800-y)</kbd>  
-  
 2. [Nakar et al. 2022 - Label‐free Differentiation of clinical E. coli and Klebsiella isolates with Raman Spectroscopy](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200005)
-<kbd>[<img src="https://onlinelibrary.wiley.com/cms/asset/f017942f-53b5-4003-9e50-0b8f38e974ac/jbio202200005-gra-0001.png?as=webp" width="300">](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200005)</kbd>  
+2. [Nakar et al. 2022 - Raman spectroscopy for the differentiation of Enterobacteriaceae: a comparison of two methods†	](https://pubs.rsc.org/en/content/articlelanding/2022/AN/D2AN00822J)
+
+
 
 ### ⚙ Private repos:
 [Enterobacteriacea](https://github.com/amirnakar/EnteroP) |
