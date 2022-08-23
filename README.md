@@ -60,6 +60,7 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 2. [Nakar et al. 2022 - Label‐free Differentiation of clinical E. coli and Klebsiella isolates with Raman Spectroscopy](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200005)
 2. [Nakar et al. 2022 - Raman spectroscopy for the differentiation of Enterobacteriaceae: a comparison of two methods†	](https://pubs.rsc.org/en/content/articlelanding/2022/AN/D2AN00822J)
 
+[<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03800-y/MediaObjects/216_2021_3800_Figg_HTML.png" width="600">](https://link.springer.com/article/10.1007/s00216-021-03800-y)
 
 
 ### ⚙ Private repos:
@@ -70,6 +71,7 @@ The idea --> to help doctors be able to prescribe the right drug 💊, to kill o
 [Raman Pipeline](https://github.com/amirnakar/Raman.Pipeline)
 
 ### ✍🏼 You can read about our work here:
+* [Raman Spectroscopic Method Diagnoses Infection at the Point of Care](https://www.photonics.com/Articles/Raman_Spectroscopic_Method_Diagnoses_Infection_at/a68097)
 * [Invest in photonics now to fight infectious diseases and future pandemics](https://www.euractiv.com/section/health-consumers/opinion/invest-in-photonics-now-to-fight-infectious-diseases-and-future-pandemics/)
 * [Project Website](https://www.gesundheitsforschung-bmbf.de/de/carbatech-neuartige-technologien-zur-uberwachung-und-charakterisierung-von-ss-lactamase-und-7935.php)
 
