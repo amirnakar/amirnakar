@@ -39,10 +39,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [From the Earth to the Moon (Extraordinary Voyages, #4)](https://www.goodreads.com/review/show/5135450970?utm_medium=api&utm_source=rss) by Jules Verne
 - [Harry Potter and the Deathly Hallows (Harry Potter, #7)](https://www.goodreads.com/review/show/4835797910?utm_medium=api&utm_source=rss) by J.K. Rowling
 - [So Long, and Thanks for All the Fish (The Hitchhiker's Guide to the Galaxy, #4)](https://www.goodreads.com/review/show/2623849289?utm_medium=api&utm_source=rss) by Douglas Adams
 - [Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)](https://www.goodreads.com/review/show/730892417?utm_medium=api&utm_source=rss) by Douglas Adams
-- [Harry Potter and the Half-Blood Prince (Harry Potter, #6)](https://www.goodreads.com/review/show/728927378?utm_medium=api&utm_source=rss) by J.K. Rowling
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
