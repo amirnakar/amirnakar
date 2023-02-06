@@ -42,7 +42,7 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 - [Heroes: Mortals and Monsters, Quests and Adventures (Stephen Fry's Great Mythology, #2)](https://www.goodreads.com/review/show/4351005884?utm_medium=api&utm_source=rss) by Stephen Fry
 - [Sourcery (Discworld, #5; Rincewind, #3)](https://www.goodreads.com/review/show/5189142875?utm_medium=api&utm_source=rss) by Terry Pratchett
 - [Last Chance to See](https://www.goodreads.com/review/show/4992612323?utm_medium=api&utm_source=rss) by Douglas Adams
-- [From the Earth to the Moon (Extraordinary Voyages, #4)](https://www.goodreads.com/review/show/5135450970?utm_medium=api&utm_source=rss) by Jules Verne
+- [From the Earth to the Moon](https://www.goodreads.com/review/show/5135450970?utm_medium=api&utm_source=rss) by Jules Verne
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
