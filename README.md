@@ -39,10 +39,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [The Tales of Beedle the Bard](https://www.goodreads.com/review/show/5430408055?utm_medium=api&utm_source=rss) by J.K. Rowling
 - [The Murder of Roger Ackroyd (Hercule Poirot, #4)](https://www.goodreads.com/review/show/5430401971?utm_medium=api&utm_source=rss) by Agatha Christie
 - [Three Plays: The Wasps / The Poet and the Women / The Frogs](https://www.goodreads.com/review/show/1936376850?utm_medium=api&utm_source=rss) by Aristophanes
 - [Fahrenheit 451](https://www.goodreads.com/review/show/5264257096?utm_medium=api&utm_source=rss) by Ray Bradbury
-- [Heroes: Mortals and Monsters, Quests and Adventures (Stephen Fry's Great Mythology, #2)](https://www.goodreads.com/review/show/4351005884?utm_medium=api&utm_source=rss) by Stephen Fry
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
