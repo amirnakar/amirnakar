@@ -41,7 +41,7 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 <!-- GOODREADS-LIST:START -->
 - [The Tales of Beedle the Bard](https://www.goodreads.com/review/show/5430408055?utm_medium=api&utm_source=rss) by J.K. Rowling
 - [The Murder of Roger Ackroyd (Hercule Poirot, #4)](https://www.goodreads.com/review/show/5430401971?utm_medium=api&utm_source=rss) by Agatha Christie
-- [Three Plays: The Wasps / The Poet and the Women / The Frogs](https://www.goodreads.com/review/show/1936376850?utm_medium=api&utm_source=rss) by Aristophanes
+- [Three Plays: The Wasps / The Poet and the Women / The Frogs](https://www.goodreads.com/review/show/1936376850?utm_medium=api&utm_source=rss) by David Barrett
 - [Fahrenheit 451](https://www.goodreads.com/review/show/5264257096?utm_medium=api&utm_source=rss) by Ray Bradbury
 <!-- GOODREADS-LIST:END -->
 
