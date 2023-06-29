@@ -11,26 +11,20 @@ I did my PhD  at Leibniz Institute of Photonic Technology, in [Juergen Popp's gr
 I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-jena.de/en) - courses on [Biophotonics](https://en.wikipedia.org/wiki/Biophotonics) and [Raman spectroscopy](https://en.wikipedia.org/wiki/Raman_spectroscopy)
 
 
-### You can connect with me on:
+### You can find me on:
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="30" />][linkedin]
 &nbsp;
 [<img src="https://img.shields.io/badge/@a_nakar-%231DA1F2.svg??style=flat&logo=Twitter&logoColor=white" alt="Twitter" title="Twitter" height="30" />][Twitter]
 &nbsp;
-[<img src="https://img.shields.io/badge/✉ Email-D14836?style=flat&" alt="Email" title="Email" height="30" />][Email]
-&nbsp;
-[<img src="https://img.shields.io/badge/📎Website-6c757d?style=flat&" alt="Email" title="Email" height="30" />][linkedin]
-
 [<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" alt="ResearchGate" title="ResearchGate" height="30" />][ResearchGate]
 &nbsp;
 [<img src="https://img.shields.io/badge/Scholar-4285f4?style=flat&logo=googlescholar&logoColor=white" alt="Scholar" title="Scholar" height="30" />][Scholar]
 &nbsp;
-[<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" title="Stack Overflow" height="30" />](https://stackoverflow.com/users/11983659/anakar)
-&nbsp;
 
 ### 💻 I like to work with
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="RStats" title="RStats" height="35" />](https://www.r-project.org/) [<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" title="Python" height="35" />](https://www.python.org/)  [<img src="https://www.additive-net.de/images/software/originLab/logos/origin_signet.png" alt="Origin" title="Origin" height="35" />](https://www.originlab.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="RStats" title="RStats" height="35" />](https://www.r-project.org/) [<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" title="Python" height="35" />](https://www.python.org/)
 
 ### 🔍 Research Tools Everyone Should Know:
 [<img src="https://miro.medium.com/max/402/1*yKaHeYCgTFvVeBwnRQ3O_w.png?as=webp" height="35">](https://www.connectedpapers.com/)
