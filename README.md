@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.goodreads.com/review/show/5135452802?utm_medium=api&utm_source=rss) by Laszlo Bock
 - [Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)](https://www.goodreads.com/review/show/2718537526?utm_medium=api&utm_source=rss) by Douglas Adams
 - [Asterix bei den Belgiern (Asterix, #24)](https://www.goodreads.com/review/show/5455291836?utm_medium=api&utm_source=rss) by René Goscinny
 - [Die Odyssee (Asterix #26)](https://www.goodreads.com/review/show/5441356881?utm_medium=api&utm_source=rss) by Albert Uderzo
-- [The Tales of Beedle the Bard](https://www.goodreads.com/review/show/5430408055?utm_medium=api&utm_source=rss) by J.K. Rowling
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
