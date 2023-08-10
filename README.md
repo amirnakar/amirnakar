@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [Microbe Hunters](https://www.goodreads.com/review/show/5477590943?utm_medium=api&utm_source=rss) by Paul de Kruif
 - [Microbe Hunters](https://www.goodreads.com/review/show/2438568698?utm_medium=api&utm_source=rss) by Paul de Kruif
 - [The Martian](https://www.goodreads.com/review/show/5583145183?utm_medium=api&utm_source=rss) by Andy Weir
 - [The Time Machine](https://www.goodreads.com/review/show/690811113?utm_medium=api&utm_source=rss) by H.G. Wells
-- [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.goodreads.com/review/show/5135452802?utm_medium=api&utm_source=rss) by Laszlo Bock
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
