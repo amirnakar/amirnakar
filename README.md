@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [A Moveable Feast](https://www.goodreads.com/review/show/2370147155?utm_medium=api&utm_source=rss) by Ernest Hemingway
 - [Microbe Hunters](https://www.goodreads.com/review/show/5477590943?utm_medium=api&utm_source=rss) by Paul de Kruif
 - [Microbe Hunters](https://www.goodreads.com/review/show/2438568698?utm_medium=api&utm_source=rss) by Paul de Kruif
 - [The Martian](https://www.goodreads.com/review/show/5583145183?utm_medium=api&utm_source=rss) by Andy Weir
-- [The Time Machine](https://www.goodreads.com/review/show/690811113?utm_medium=api&utm_source=rss) by H.G. Wells
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
