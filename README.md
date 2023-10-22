@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [הקייטנה של קנלר](https://www.goodreads.com/review/show/5922562862?utm_medium=api&utm_source=rss) by Etgar Keret
 - [A Moveable Feast](https://www.goodreads.com/review/show/2370147155?utm_medium=api&utm_source=rss) by Ernest Hemingway
 - [Catch-22](https://www.goodreads.com/review/show/690808529?utm_medium=api&utm_source=rss) by Joseph Heller
 - [Old New Land](https://www.goodreads.com/review/show/2431816332?utm_medium=api&utm_source=rss) by Theodor Herzl
-- [Last Chance to See](https://www.goodreads.com/review/show/690814128?utm_medium=api&utm_source=rss) by Douglas Adams
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
