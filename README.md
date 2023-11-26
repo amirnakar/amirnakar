@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [The Eyre Affair (Thursday Next, #1)](https://www.goodreads.com/review/show/5942217538?utm_medium=api&utm_source=rss) by Jasper Fforde
 - [הקייטנה של קנלר](https://www.goodreads.com/review/show/5922562862?utm_medium=api&utm_source=rss) by Etgar Keret
 - [A Moveable Feast](https://www.goodreads.com/review/show/2370147155?utm_medium=api&utm_source=rss) by Ernest Hemingway
 - [Catch-22](https://www.goodreads.com/review/show/690808529?utm_medium=api&utm_source=rss) by Joseph Heller
-- [Old New Land](https://www.goodreads.com/review/show/2431816332?utm_medium=api&utm_source=rss) by Theodor Herzl
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
