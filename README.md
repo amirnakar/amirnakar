@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [The Metamorphosis](https://www.goodreads.com/review/show/2893976246?utm_medium=api&utm_source=rss) by Franz Kafka
 - [The Liar](https://www.goodreads.com/review/show/690827392?utm_medium=api&utm_source=rss) by Stephen Fry
 - [The Hippopotamus](https://www.goodreads.com/review/show/5979218767?utm_medium=api&utm_source=rss) by Stephen Fry
 - [The Eyre Affair (Thursday Next, #1)](https://www.goodreads.com/review/show/5942217538?utm_medium=api&utm_source=rss) by Jasper Fforde
-- [הקייטנה של קנלר](https://www.goodreads.com/review/show/5922562862?utm_medium=api&utm_source=rss) by Etgar Keret
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
