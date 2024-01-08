@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [Guards! Guards! (Discworld, #8; City Watch, #1)](https://www.goodreads.com/review/show/6001644832?utm_medium=api&utm_source=rss) by Terry Pratchett
 - [The Metamorphosis](https://www.goodreads.com/review/show/2893976246?utm_medium=api&utm_source=rss) by Franz Kafka
 - [The Liar](https://www.goodreads.com/review/show/690827392?utm_medium=api&utm_source=rss) by Stephen Fry
 - [The Hippopotamus](https://www.goodreads.com/review/show/5979218767?utm_medium=api&utm_source=rss) by Stephen Fry
-- [The Eyre Affair (Thursday Next, #1)](https://www.goodreads.com/review/show/5942217538?utm_medium=api&utm_source=rss) by Jasper Fforde
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
