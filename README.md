@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/6192466732?utm_medium=api&utm_source=rss) by Douglas Adams
 - [Guards! Guards! (Discworld, #8; City Watch, #1)](https://www.goodreads.com/review/show/6001644832?utm_medium=api&utm_source=rss) by Terry Pratchett
 - [The Metamorphosis](https://www.goodreads.com/review/show/2893976246?utm_medium=api&utm_source=rss) by Franz Kafka
 - [The Liar](https://www.goodreads.com/review/show/690827392?utm_medium=api&utm_source=rss) by Stephen Fry
-- [The Hippopotamus](https://www.goodreads.com/review/show/5979218767?utm_medium=api&utm_source=rss) by Stephen Fry
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
