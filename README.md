@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [I, Robot (Robot, #0.1)](https://www.goodreads.com/review/show/6494834819?utm_medium=api&utm_source=rss) by Isaac Asimov
 - [The Godfather (The Godfather, #1)](https://www.goodreads.com/review/show/690807160?utm_medium=api&utm_source=rss) by Mario Puzo
 - [Das neue Ghetto (German Edition)](https://www.goodreads.com/review/show/6330079703?utm_medium=api&utm_source=rss) by Theodor Herzl
 - [אל המקום הטוב בעולם ובחזרה](https://www.goodreads.com/review/show/6253612439?utm_medium=api&utm_source=rss) by עדי ברוקס
-- [The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/6192466732?utm_medium=api&utm_source=rss) by Douglas Adams
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
