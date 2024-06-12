@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [The Pig That Wants to Be Eaten: 100 Experiments for the Armchair Philosopher](https://www.goodreads.com/review/show/5861769294?utm_medium=api&utm_source=rss) by Julian Baggini
 - [Identity Crisis](https://www.goodreads.com/review/show/2851932906?utm_medium=api&utm_source=rss) by Ben Elton
 - [I, Robot (Robot, #0.1)](https://www.goodreads.com/review/show/6494834819?utm_medium=api&utm_source=rss) by Isaac Asimov
 - [The Godfather (The Godfather, #1)](https://www.goodreads.com/review/show/690807160?utm_medium=api&utm_source=rss) by Mario Puzo
-- [Das neue Ghetto (German Edition)](https://www.goodreads.com/review/show/6330079703?utm_medium=api&utm_source=rss) by Theodor Herzl
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
