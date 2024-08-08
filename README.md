@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [The Age of Fable](https://www.goodreads.com/review/show/2036045458?utm_medium=api&utm_source=rss) by Thomas Bulfinch
+- [הקייטנה של קנלר](https://www.goodreads.com/review/show/6737039696?utm_medium=api&utm_source=rss) by Etgar Keret
 - [סוס אחד נכנס לבר](https://www.goodreads.com/review/show/2379853927?utm_medium=api&utm_source=rss) by David Grossman
 - [Wyrd Sisters (Discworld, #6; Witches, #2)](https://www.goodreads.com/review/show/6587951201?utm_medium=api&utm_source=rss) by Terry Pratchett
-- [The Pig That Wants to Be Eaten: 100 Experiments for the Armchair Philosopher](https://www.goodreads.com/review/show/5861769294?utm_medium=api&utm_source=rss) by Julian Baggini
-- [Identity Crisis](https://www.goodreads.com/review/show/2851932906?utm_medium=api&utm_source=rss) by Ben Elton
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
