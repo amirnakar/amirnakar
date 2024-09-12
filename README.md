@@ -33,10 +33,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [Two Brothers](https://www.goodreads.com/review/show/2179749843?utm_medium=api&utm_source=rss) by Ben Elton
 - [Around the World in Eighty Days](https://www.goodreads.com/review/show/1726096389?utm_medium=api&utm_source=rss) by Jules Verne
 - [The Age of Fable](https://www.goodreads.com/review/show/2036045458?utm_medium=api&utm_source=rss) by Thomas Bulfinch
 - [הקייטנה של קנלר](https://www.goodreads.com/review/show/6737039696?utm_medium=api&utm_source=rss) by Etgar Keret
-- [סוס אחד נכנס לבר](https://www.goodreads.com/review/show/2379853927?utm_medium=api&utm_source=rss) by David Grossman
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
