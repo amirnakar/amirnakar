@@ -31,6 +31,21 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 [<img src="https://biosemantics.erasmusmc.nl/images/jane.png?as=webp" height="35">](https://jane.biosemantics.org/)
 [<img src="https://www.zotero.org/support/_media/logo/zotero_512x512x32.png?as=webp" height="35">](https://www.zotero.org)
 
+### 📄 Select Research by or on MeMed 2022 onwards:
+
+1. [Bachur et al. (2024)](https://doi.org/10.1002/emp2.13167), *Journal of the American College of Emergency Physicians Open*: A rapid host–protein test for differentiating bacterial from viral infection: Apollo diagnostic accuracy study. *Our FDA clinical validation study*
+2. [Carroll (2024)](https://doi.org/10.1080/14737159.2024.2408743), *Expert Review of Molecular Diagnostics*: Assessment of MeMed BV assays for differentiating between bacterial and viral respiratory infections. *An expert review from the lab manager at Johns Hopkins*
+3. [Halabi et al. (2023)](https://doi.org/10.1016/j.cmi.2023.05.033), *Clin Microbiol Infect.*: Host test based on TRAIL, IP-10 and CRP for differentiating bacterial and viral respiratory tract infections in adults: diagnostic accuracy study. 
+4. [Klein et al. (2023)](https://doi.org/10.1542/peds.2022-060441), *Pediatrics*: Diagnostic Accuracy of a Real-Time Host-Protein Test for Infection.
+5. [Kalmovich et al. (2023)](https://doi.org/10.3390/biomedicines11051498), *Biomedicines*: Impact on Patient Management of a Novel Host Response Test for Distinguishing Bacterial and Viral Infections: Real World Evidence from the Urgent Care Setting.
+6. [Mor et al. (2023)](https://doi.org/10.1371/journal.pone.0281018), *PLOS ONE*: Bacterial vs viral etiology of fever: A prospective study of a host score for supporting etiologic accuracy of emergency department physicians.
+7. [Hainrichson et al. (2022)](https://doi.org/10.1016/j.clinbiochem.2022.04.012), *Clinical Biochemistry*: A point-of-need platform for rapid measurement of a host-protein score that differentiates bacterial from viral infection: Analytical evaluation.
+8. [Stein et al. (2022)](https://www.frontiersin.org/articles/10.3389/fped.2022.990750), *Frontiers in Pediatrics*: BV score differentiates viral from bacterial-viral co-infection in adenovirus PCR positive children.
+9. [Papan et al. (2022)](https://doi.org/10.1016/j.cmi.2021.10.019), *Clin Microbiol Infect.*: A host signature based on TRAIL, IP-10, and CRP for reducing antibiotic overuse in children by differentiating bacterial from viral infections: a prospective, multicentre cohort study.
+10. [Schneider et al. (2022)](https://doi.org/10.1080/13696998.2022.2026686), *Journal of Medical Economics*: Cost impact analysis of novel host-response diagnostic for patients with community-acquired pneumonia in the emergency department. *A cost-impact analysis 💲*
+
+
+
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
 - [The Complete Yes Minister](https://www.goodreads.com/review/show/6683462954?utm_medium=api&utm_source=rss) by Jonathan Lynn
