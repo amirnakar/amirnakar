@@ -48,10 +48,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [A Murder of Quality (George Smiley, #2)](https://www.goodreads.com/review/show/3070266622?utm_medium=api&utm_source=rss) by John Le Carré
+- [Troy (Stephen Fry's Great Mythology, #3)](https://www.goodreads.com/review/show/6918256668?utm_medium=api&utm_source=rss) by Stephen Fry
 - [The Caves of Steel (Robot, #1)](https://www.goodreads.com/review/show/6918255902?utm_medium=api&utm_source=rss) by Isaac Asimov
 - [The Complete Yes Minister](https://www.goodreads.com/review/show/6683462954?utm_medium=api&utm_source=rss) by Jonathan Lynn
-- [Dreaming the Dark](https://www.goodreads.com/review/show/6871103739?utm_medium=api&utm_source=rss) by Elana Gomel
-- [Two Brothers](https://www.goodreads.com/review/show/2179749843?utm_medium=api&utm_source=rss) by Ben Elton
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
