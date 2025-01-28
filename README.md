@@ -48,10 +48,10 @@ I used to teach at [Friedrich Schiller Universität Jena](https://www.ipc.uni-je
 
 ### 📚 Books I Recently read
 <!-- GOODREADS-LIST:START -->
+- [The Last Don (The Godfather)](https://www.goodreads.com/review/show/690829698?utm_medium=api&utm_source=rss) by Mario Puzo
 - [Am Mississippi (Lucky Luke, Bd. 20)](https://www.goodreads.com/review/show/7245118247?utm_medium=api&utm_source=rss) by Morris
 - [Moneyball](https://www.goodreads.com/review/show/7091814932?utm_medium=api&utm_source=rss) by Michael   Lewis
 - [A Murder of Quality (George Smiley, #2)](https://www.goodreads.com/review/show/3070266622?utm_medium=api&utm_source=rss) by John Le Carré
-- [Troy (Stephen Fry's Great Mythology, #3)](https://www.goodreads.com/review/show/6918256668?utm_medium=api&utm_source=rss) by Stephen Fry
 <!-- GOODREADS-LIST:END -->
 
 # Past Projects
